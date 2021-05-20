@@ -1,1 +1,1 @@
-# FastCo is Server Framework Dart
+Fast, unopinionated, minimalist web framework for dart.
